@@ -1,0 +1,11 @@
+,Make,Colour,Odometer (KM),Doors,Price,Seats,Fuel per 100KM,Total Fuel Used(L),Passed Safty Test
+0,toyota,White,150043,4,400000,5.0,7.5,11253.225,True
+1,honda,Red,87899,4,500000,5.0,8.2,7207.718,True
+2,toyota,Blue,32549,3,700000,5.0,8.4,2734.116,True
+3,bmw,Black,11179,5,2200000,5.0,8.6,961.394,True
+4,nissan,White,213095,4,350000,5.0,5.5,11720.224999999999,True
+5,toyota,Green,99213,4,450000,5.0,4.5,4464.585,True
+6,honda,Blue,45698,4,750000,5.0,6.6,3016.0679999999998,True
+7,honda,Blue,54738,4,700000,5.0,8.0,4379.04,True
+8,toyota,White,60000,4,625000,5.0,7.4,4440.0,True
+9,nissan,White,31600,4,970000,5.0,5.1,1611.6,True
